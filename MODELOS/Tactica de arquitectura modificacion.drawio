@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-18T23:54:47.536Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15" etag="Q_D1MVMpuqOvz4ncCG0n" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-18T23:57:32.459Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15" etag="N2pzMlMFUUrvhNhWGgpe" version="20.3.0" type="github">
   <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
     <mxGraphModel dx="3397" dy="3831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -777,7 +777,7 @@
           <mxGeometry x="1363" y="-100" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-aslIin6-l7YJVMK6JKz-2" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="-1980" width="1350" height="420" as="geometry" />
+          <mxGeometry x="-10" y="-1970" width="1350" height="420" as="geometry" />
         </mxCell>
         <mxCell id="-aslIin6-l7YJVMK6JKz-3" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
           <mxGeometry x="-10" y="-420" width="1440" height="330" as="geometry" />
@@ -887,24 +887,38 @@
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="-aslIin6-l7YJVMK6JKz-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-aslIin6-l7YJVMK6JKz-32" target="-aslIin6-l7YJVMK6JKz-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="780" y="-1795" />
+              <mxPoint x="780" y="-1095" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="-aslIin6-l7YJVMK6JKz-32" value="«component»&lt;br&gt;&lt;b&gt;Cliente Web&lt;/b&gt;" style="html=1;dropTarget=0;" vertex="1" parent="1">
-          <mxGeometry x="405" y="-1840" width="180" height="90" as="geometry" />
+          <mxGeometry x="520" y="-1850" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="-aslIin6-l7YJVMK6JKz-33" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="-aslIin6-l7YJVMK6JKz-32">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="-aslIin6-l7YJVMK6JKz-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-aslIin6-l7YJVMK6JKz-34" target="-aslIin6-l7YJVMK6JKz-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-aslIin6-l7YJVMK6JKz-34" value="«component»&lt;br&gt;&lt;b&gt;Cliente Movil&lt;/b&gt;" style="html=1;dropTarget=0;" vertex="1" parent="1">
-          <mxGeometry x="780" y="-1840" width="180" height="90" as="geometry" />
+          <mxGeometry x="992.5" y="-1840" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="-aslIin6-l7YJVMK6JKz-35" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="-aslIin6-l7YJVMK6JKz-34">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-aslIin6-l7YJVMK6JKz-36" value="«component»&lt;br&gt;&lt;b&gt;Cliente Movil&lt;/b&gt;" style="html=1;dropTarget=0;" vertex="1" parent="1">
-          <mxGeometry x="790" y="-1830" width="180" height="90" as="geometry" />
+        <mxCell id="-aslIin6-l7YJVMK6JKz-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-aslIin6-l7YJVMK6JKz-36" target="-aslIin6-l7YJVMK6JKz-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-aslIin6-l7YJVMK6JKz-36" value="«component»&lt;br&gt;&lt;b&gt;Gateway&lt;/b&gt;" style="html=1;dropTarget=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="-1430" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="-aslIin6-l7YJVMK6JKz-37" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="-aslIin6-l7YJVMK6JKz-36">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
