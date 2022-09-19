@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-19T00:27:30.540Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15" etag="mtJrFKIZ7Dnl47CAHkQc" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-19T00:40:57.247Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15" etag="DFgCe54RcrN0Q8gbxuPo" version="20.3.0" type="github">
   <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
     <mxGraphModel dx="3003" dy="3612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -833,8 +833,16 @@
         <mxCell id="-aslIin6-l7YJVMK6JKz-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fillColor=#FF0000;" edge="1" parent="1" source="-aslIin6-l7YJVMK6JKz-14" target="-aslIin6-l7YJVMK6JKz-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="-aslIin6-l7YJVMK6JKz-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#FF0000;" edge="1" parent="1" source="-aslIin6-l7YJVMK6JKz-14" target="-aslIin6-l7YJVMK6JKz-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1040" y="-820" />
+              <mxPoint x="970" y="-820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="-aslIin6-l7YJVMK6JKz-14" value="«component»&lt;br&gt;&lt;b&gt;GestorUbicacion&lt;br&gt;&lt;/b&gt;" style="html=1;dropTarget=0;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="-770" width="180" height="90" as="geometry" />
+          <mxGeometry x="1000" y="-770" width="230" height="90" as="geometry" />
         </mxCell>
         <mxCell id="-aslIin6-l7YJVMK6JKz-15" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="-aslIin6-l7YJVMK6JKz-14">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
@@ -975,6 +983,36 @@
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-aslIin6-l7YJVMK6JKz-58" value="Gestor de ubicaciones y eventos" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="994.5" y="-460" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-aslIin6-l7YJVMK6JKz-59" value="Generar reportes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="665" y="-445" as="geometry" />
+        </mxCell>
+        <mxCell id="-aslIin6-l7YJVMK6JKz-61" value="Obtención datos" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="410" y="-330" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-aslIin6-l7YJVMK6JKz-62" value="Obtención ubicaciones y eventos" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="545" y="-180" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-aslIin6-l7YJVMK6JKz-63" value="Gestor Ubicacion" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="700" y="-720" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-aslIin6-l7YJVMK6JKz-64" value="Gestion login" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="-720" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-aslIin6-l7YJVMK6JKz-65" value="Gestor notificaciones" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="-940" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-aslIin6-l7YJVMK6JKz-66" value="Gestor Acciones" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="993" y="-850" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-aslIin6-l7YJVMK6JKz-67" value="Enviar datos" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="460" y="-830" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-aslIin6-l7YJVMK6JKz-68" value="Gestor configuracion" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="710" y="-1000" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
