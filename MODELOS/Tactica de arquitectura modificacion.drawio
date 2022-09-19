@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-19T00:40:57.247Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15" etag="DFgCe54RcrN0Q8gbxuPo" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-19T00:43:38.356Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15" etag="5TWzq5qC2TzUfyvaY75s" version="20.3.0" type="github">
   <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
     <mxGraphModel dx="3003" dy="3612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -776,16 +776,16 @@
         <mxCell id="-aslIin6-l7YJVMK6JKz-1" value="Data service" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1363" y="-100" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-aslIin6-l7YJVMK6JKz-2" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+        <mxCell id="-aslIin6-l7YJVMK6JKz-2" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;fillColor=#E6D0DE;" vertex="1" parent="1">
           <mxGeometry x="-10" y="-1970" width="1350" height="420" as="geometry" />
         </mxCell>
-        <mxCell id="-aslIin6-l7YJVMK6JKz-3" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+        <mxCell id="-aslIin6-l7YJVMK6JKz-3" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;fillColor=#FF99FF;" vertex="1" parent="1">
           <mxGeometry x="-10" y="-420" width="1440" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="-aslIin6-l7YJVMK6JKz-4" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+        <mxCell id="-aslIin6-l7YJVMK6JKz-4" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;fillColor=#FFFF66;" vertex="1" parent="1">
           <mxGeometry x="-10" y="-1490" width="730" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="-aslIin6-l7YJVMK6JKz-5" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;" vertex="1" parent="1">
+        <mxCell id="-aslIin6-l7YJVMK6JKz-5" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;fillColor=#CCFFCC;" vertex="1" parent="1">
           <mxGeometry x="-10" y="-1240" width="1430" height="760" as="geometry" />
         </mxCell>
         <mxCell id="-aslIin6-l7YJVMK6JKz-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#FF0000;" edge="1" parent="1" source="-aslIin6-l7YJVMK6JKz-6" target="-aslIin6-l7YJVMK6JKz-12">
@@ -1013,6 +1013,15 @@
         </mxCell>
         <mxCell id="-aslIin6-l7YJVMK6JKz-68" value="Gestor configuracion" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="710" y="-1000" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-aslIin6-l7YJVMK6JKz-69" value="Nivel Presentación" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="657" y="-1950" width="123" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-aslIin6-l7YJVMK6JKz-70" value="Nivel Logica &amp;nbsp;Negocio" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="612" y="-1220" width="213" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-aslIin6-l7YJVMK6JKz-71" value="Nivel Persistencia" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="-400" width="213" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
