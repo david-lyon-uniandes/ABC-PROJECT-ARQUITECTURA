@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-21T22:24:20.330Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15" etag="IjPh038tHi22I8O3PeAt" version="20.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-21T22:28:31.966Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15" etag="IRBfEnxj15d9k6DieimL" version="20.5.0" type="github">
   <diagram id="hfnjaT5whu7QgdR-a0yH" name="Página-1">
-    <mxGraphModel dx="2347" dy="1046" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1891" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -188,8 +188,8 @@
         <mxCell id="LfK27KjmxgYq0cYgHclC-4" value="MUSEOS" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=14;fontColor=#666666;align=left;" parent="LfK27KjmxgYq0cYgHclC-3" vertex="1">
           <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="LfK27KjmxgYq0cYgHclC-5" value="https://www.museosdeartemoderno/exhibitions.com.co" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" parent="LfK27KjmxgYq0cYgHclC-3" vertex="1">
-          <mxGeometry x="130" y="60" width="350" height="20" as="geometry" />
+        <mxCell id="LfK27KjmxgYq0cYgHclC-5" value="https://www.museosdeartemoderno/exhibition/obras.com.co" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" parent="LfK27KjmxgYq0cYgHclC-3" vertex="1">
+          <mxGeometry x="130" y="60" width="440" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LfK27KjmxgYq0cYgHclC-40" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DEE2E6;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#1B1E21;fontSize=14;" parent="LfK27KjmxgYq0cYgHclC-3" vertex="1">
           <mxGeometry x="460" y="790" width="220" height="30" as="geometry" />
