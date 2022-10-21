@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-21T22:16:08.533Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15" etag="0kAzxqVVmAcYzG-pEtKc" version="20.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-21T22:24:20.330Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15" etag="IjPh038tHi22I8O3PeAt" version="20.5.0" type="github">
   <diagram id="hfnjaT5whu7QgdR-a0yH" name="Página-1">
-    <mxGraphModel dx="2347" dy="1013" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2347" dy="1046" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -147,10 +147,10 @@
         <mxCell id="tLhkMtqVfMtvaBKOZ2es-51" value="Ver todo" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#343A40;fontColor=#FFFFFF;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;fontFamily=Helvetica;" parent="tLhkMtqVfMtvaBKOZ2es-32" vertex="1">
           <mxGeometry x="650" y="400" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LfK27KjmxgYq0cYgHclC-1" value="Nombre: nombre obra&lt;br&gt;&lt;br&gt;Año: 10/12/2010&lt;br&gt;&lt;br&gt;Descripción: Descripción de obra&lt;br&gt;&lt;br&gt;Tipo: Painting" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;strokeWidth=1;fillColor=#FFFFFF;fontColor=#6C767D;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;fontSize=14;spacing=10;fontFamily=Helvetica;" vertex="1" parent="tLhkMtqVfMtvaBKOZ2es-32">
+        <mxCell id="LfK27KjmxgYq0cYgHclC-1" value="Nombre: nombre obra&lt;br&gt;&lt;br&gt;Año: 10/12/2010&lt;br&gt;&lt;br&gt;Descripción: Descripción de obra&lt;br&gt;&lt;br&gt;Tipo: Painting" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;strokeWidth=1;fillColor=#FFFFFF;fontColor=#6C767D;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;fontSize=14;spacing=10;fontFamily=Helvetica;" parent="tLhkMtqVfMtvaBKOZ2es-32" vertex="1">
           <mxGeometry x="270" y="440" width="184" height="155" as="geometry" />
         </mxCell>
-        <mxCell id="LfK27KjmxgYq0cYgHclC-2" value="Nombre: nombre obra&lt;br&gt;&lt;br&gt;Año: 10/12/2010&lt;br&gt;&lt;br&gt;Descripción: Descripción de obra&lt;br&gt;&lt;br&gt;Tipo: Painting" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;strokeWidth=1;fillColor=#FFFFFF;fontColor=#6C767D;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;fontSize=14;spacing=10;fontFamily=Helvetica;" vertex="1" parent="tLhkMtqVfMtvaBKOZ2es-32">
+        <mxCell id="LfK27KjmxgYq0cYgHclC-2" value="Nombre: nombre obra&lt;br&gt;&lt;br&gt;Año: 10/12/2010&lt;br&gt;&lt;br&gt;Descripción: Descripción de obra&lt;br&gt;&lt;br&gt;Tipo: Painting" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;strokeWidth=1;fillColor=#FFFFFF;fontColor=#6C767D;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;fontSize=14;spacing=10;fontFamily=Helvetica;" parent="tLhkMtqVfMtvaBKOZ2es-32" vertex="1">
           <mxGeometry x="480" y="440" width="184" height="155" as="geometry" />
         </mxCell>
         <mxCell id="tLhkMtqVfMtvaBKOZ2es-47" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/heroicons-solid/20/cursor-click-128.png;strokeColor=#C6C8CA;strokeWidth=1;fontFamily=Helvetica;fontSize=13;fontColor=#66B2FF;" parent="tLhkMtqVfMtvaBKOZ2es-1" vertex="1">
@@ -182,79 +182,82 @@
             <mxPoint x="-60" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LfK27KjmxgYq0cYgHclC-3" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#1B1E21;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="LfK27KjmxgYq0cYgHclC-3" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#1B1E21;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1170" y="190" width="1160" height="850" as="geometry" />
         </mxCell>
-        <mxCell id="LfK27KjmxgYq0cYgHclC-4" value="MUSEOS" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=14;fontColor=#666666;align=left;" vertex="1" parent="LfK27KjmxgYq0cYgHclC-3">
+        <mxCell id="LfK27KjmxgYq0cYgHclC-4" value="MUSEOS" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=14;fontColor=#666666;align=left;" parent="LfK27KjmxgYq0cYgHclC-3" vertex="1">
           <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="LfK27KjmxgYq0cYgHclC-5" value="https://www.museosdeartemoderno/exhibitions.com.co" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="LfK27KjmxgYq0cYgHclC-3">
+        <mxCell id="LfK27KjmxgYq0cYgHclC-5" value="https://www.museosdeartemoderno/exhibitions.com.co" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" parent="LfK27KjmxgYq0cYgHclC-3" vertex="1">
           <mxGeometry x="130" y="60" width="350" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LfK27KjmxgYq0cYgHclC-40" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DEE2E6;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#1B1E21;fontSize=14;" vertex="1" parent="LfK27KjmxgYq0cYgHclC-3">
+        <mxCell id="LfK27KjmxgYq0cYgHclC-40" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DEE2E6;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#1B1E21;fontSize=14;" parent="LfK27KjmxgYq0cYgHclC-3" vertex="1">
           <mxGeometry x="460" y="790" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LfK27KjmxgYq0cYgHclC-41" value="Previous" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.leftButton;rSize=5;perimeter=none;whiteSpace=wrap;resizeHeight=1;fontSize=14;" vertex="1" parent="LfK27KjmxgYq0cYgHclC-40">
+        <mxCell id="LfK27KjmxgYq0cYgHclC-41" value="Previous" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.leftButton;rSize=5;perimeter=none;whiteSpace=wrap;resizeHeight=1;fontSize=14;" parent="LfK27KjmxgYq0cYgHclC-40" vertex="1">
           <mxGeometry width="70" height="30" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LfK27KjmxgYq0cYgHclC-42" value="1" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=#FF3333;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeHeight=1;fontSize=14;" vertex="1" parent="LfK27KjmxgYq0cYgHclC-40">
+        <mxCell id="LfK27KjmxgYq0cYgHclC-42" value="1" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=#FF3333;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeHeight=1;fontSize=14;" parent="LfK27KjmxgYq0cYgHclC-40" vertex="1">
           <mxGeometry width="30" height="30" relative="1" as="geometry">
             <mxPoint x="70" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LfK27KjmxgYq0cYgHclC-43" value="2" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeHeight=1;fontSize=14;" vertex="1" parent="LfK27KjmxgYq0cYgHclC-40">
+        <mxCell id="LfK27KjmxgYq0cYgHclC-43" value="2" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeHeight=1;fontSize=14;" parent="LfK27KjmxgYq0cYgHclC-40" vertex="1">
           <mxGeometry width="30" height="30" relative="1" as="geometry">
             <mxPoint x="100" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LfK27KjmxgYq0cYgHclC-44" value="3" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeHeight=1;fontSize=14;" vertex="1" parent="LfK27KjmxgYq0cYgHclC-40">
+        <mxCell id="LfK27KjmxgYq0cYgHclC-44" value="3" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeHeight=1;fontSize=14;" parent="LfK27KjmxgYq0cYgHclC-40" vertex="1">
           <mxGeometry width="30" height="30" relative="1" as="geometry">
             <mxPoint x="130" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LfK27KjmxgYq0cYgHclC-45" value="Next" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rightButton;rSize=5;perimeter=none;whiteSpace=wrap;resizeHeight=1;fontSize=14;" vertex="1" parent="LfK27KjmxgYq0cYgHclC-40">
+        <mxCell id="LfK27KjmxgYq0cYgHclC-45" value="Next" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rightButton;rSize=5;perimeter=none;whiteSpace=wrap;resizeHeight=1;fontSize=14;" parent="LfK27KjmxgYq0cYgHclC-40" vertex="1">
           <mxGeometry x="1" width="60" height="30" relative="1" as="geometry">
             <mxPoint x="-60" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LfK27KjmxgYq0cYgHclC-46" value="Obras de Exhibition name" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontColor=#0000FF;fontStyle=1;fontFamily=Comic Sans MS;" vertex="1" parent="LfK27KjmxgYq0cYgHclC-3">
+        <mxCell id="LfK27KjmxgYq0cYgHclC-46" value="Obras de Exhibition name" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontColor=#0000FF;fontStyle=1;fontFamily=Comic Sans MS;" parent="LfK27KjmxgYq0cYgHclC-3" vertex="1">
           <mxGeometry x="30" y="130" width="310" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LfK27KjmxgYq0cYgHclC-47" value="Nombre: nombre obra&lt;br&gt;&lt;br&gt;Año: 10/12/2010&lt;br&gt;&lt;br&gt;Descripción: Descripción de obra&lt;br&gt;&lt;br&gt;Tipo: Painting" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;strokeWidth=1;fillColor=#FFFFFF;fontColor=#6C767D;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;fontSize=14;spacing=10;fontFamily=Helvetica;" vertex="1" parent="LfK27KjmxgYq0cYgHclC-3">
+        <mxCell id="LfK27KjmxgYq0cYgHclC-47" value="Nombre: nombre obra&lt;br&gt;&lt;br&gt;Año: 10/12/2010&lt;br&gt;&lt;br&gt;Descripción: Descripción de obra&lt;br&gt;&lt;br&gt;Tipo: Painting" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;strokeWidth=1;fillColor=#FFFFFF;fontColor=#6C767D;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;fontSize=14;spacing=10;fontFamily=Helvetica;" parent="LfK27KjmxgYq0cYgHclC-3" vertex="1">
           <mxGeometry x="190" y="210" width="184" height="155" as="geometry" />
         </mxCell>
-        <mxCell id="LfK27KjmxgYq0cYgHclC-48" value="Nombre: nombre obra&lt;br&gt;&lt;br&gt;Año: 10/12/2010&lt;br&gt;&lt;br&gt;Descripción: Descripción de obra&lt;br&gt;&lt;br&gt;Tipo: Painting" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;strokeWidth=1;fillColor=#FFFFFF;fontColor=#6C767D;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;fontSize=14;spacing=10;fontFamily=Helvetica;" vertex="1" parent="LfK27KjmxgYq0cYgHclC-3">
+        <mxCell id="LfK27KjmxgYq0cYgHclC-48" value="Nombre: nombre obra&lt;br&gt;&lt;br&gt;Año: 10/12/2010&lt;br&gt;&lt;br&gt;Descripción: Descripción de obra&lt;br&gt;&lt;br&gt;Tipo: Painting" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;strokeWidth=1;fillColor=#FFFFFF;fontColor=#6C767D;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;fontSize=14;spacing=10;fontFamily=Helvetica;" parent="LfK27KjmxgYq0cYgHclC-3" vertex="1">
           <mxGeometry x="420" y="210" width="184" height="155" as="geometry" />
         </mxCell>
-        <mxCell id="LfK27KjmxgYq0cYgHclC-49" value="Nombre: nombre obra&lt;br&gt;&lt;br&gt;Año: 10/12/2010&lt;br&gt;&lt;br&gt;Descripción: Descripción de obra&lt;br&gt;&lt;br&gt;Tipo: Painting" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;strokeWidth=1;fillColor=#FFFFFF;fontColor=#6C767D;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;fontSize=14;spacing=10;fontFamily=Helvetica;" vertex="1" parent="LfK27KjmxgYq0cYgHclC-3">
+        <mxCell id="LfK27KjmxgYq0cYgHclC-49" value="Nombre: nombre obra&lt;br&gt;&lt;br&gt;Año: 10/12/2010&lt;br&gt;&lt;br&gt;Descripción: Descripción de obra&lt;br&gt;&lt;br&gt;Tipo: Painting" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;strokeWidth=1;fillColor=#FFFFFF;fontColor=#6C767D;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;fontSize=14;spacing=10;fontFamily=Helvetica;" parent="LfK27KjmxgYq0cYgHclC-3" vertex="1">
           <mxGeometry x="650" y="210" width="184" height="155" as="geometry" />
         </mxCell>
-        <mxCell id="LfK27KjmxgYq0cYgHclC-51" value="Nombre: nombre obra&lt;br&gt;&lt;br&gt;Año: 10/12/2010&lt;br&gt;&lt;br&gt;Descripción: Descripción de obra&lt;br&gt;&lt;br&gt;Tipo: Painting" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;strokeWidth=1;fillColor=#FFFFFF;fontColor=#6C767D;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;fontSize=14;spacing=10;fontFamily=Helvetica;" vertex="1" parent="LfK27KjmxgYq0cYgHclC-3">
+        <mxCell id="LfK27KjmxgYq0cYgHclC-51" value="Nombre: nombre obra&lt;br&gt;&lt;br&gt;Año: 10/12/2010&lt;br&gt;&lt;br&gt;Descripción: Descripción de obra&lt;br&gt;&lt;br&gt;Tipo: Painting" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;strokeWidth=1;fillColor=#FFFFFF;fontColor=#6C767D;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;fontSize=14;spacing=10;fontFamily=Helvetica;" parent="LfK27KjmxgYq0cYgHclC-3" vertex="1">
           <mxGeometry x="880" y="210" width="184" height="155" as="geometry" />
         </mxCell>
-        <mxCell id="LfK27KjmxgYq0cYgHclC-52" value="Nombre: nombre obra&lt;br&gt;&lt;br&gt;Año: 10/12/2010&lt;br&gt;&lt;br&gt;Descripción: Descripción de obra&lt;br&gt;&lt;br&gt;Tipo: Painting" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;strokeWidth=1;fillColor=#FFFFFF;fontColor=#6C767D;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;fontSize=14;spacing=10;fontFamily=Helvetica;" vertex="1" parent="LfK27KjmxgYq0cYgHclC-3">
+        <mxCell id="LfK27KjmxgYq0cYgHclC-52" value="Nombre: nombre obra&lt;br&gt;&lt;br&gt;Año: 10/12/2010&lt;br&gt;&lt;br&gt;Descripción: Descripción de obra&lt;br&gt;&lt;br&gt;Tipo: Painting" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;strokeWidth=1;fillColor=#FFFFFF;fontColor=#6C767D;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;fontSize=14;spacing=10;fontFamily=Helvetica;" parent="LfK27KjmxgYq0cYgHclC-3" vertex="1">
           <mxGeometry x="190" y="400" width="184" height="155" as="geometry" />
         </mxCell>
-        <mxCell id="LfK27KjmxgYq0cYgHclC-53" value="Nombre: nombre obra&lt;br&gt;&lt;br&gt;Año: 10/12/2010&lt;br&gt;&lt;br&gt;Descripción: Descripción de obra&lt;br&gt;&lt;br&gt;Tipo: Painting" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;strokeWidth=1;fillColor=#FFFFFF;fontColor=#6C767D;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;fontSize=14;spacing=10;fontFamily=Helvetica;" vertex="1" parent="LfK27KjmxgYq0cYgHclC-3">
+        <mxCell id="LfK27KjmxgYq0cYgHclC-53" value="Nombre: nombre obra&lt;br&gt;&lt;br&gt;Año: 10/12/2010&lt;br&gt;&lt;br&gt;Descripción: Descripción de obra&lt;br&gt;&lt;br&gt;Tipo: Painting" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;strokeWidth=1;fillColor=#FFFFFF;fontColor=#6C767D;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;fontSize=14;spacing=10;fontFamily=Helvetica;" parent="LfK27KjmxgYq0cYgHclC-3" vertex="1">
           <mxGeometry x="420" y="400" width="184" height="155" as="geometry" />
         </mxCell>
-        <mxCell id="LfK27KjmxgYq0cYgHclC-54" value="Nombre: nombre obra&lt;br&gt;&lt;br&gt;Año: 10/12/2010&lt;br&gt;&lt;br&gt;Descripción: Descripción de obra&lt;br&gt;&lt;br&gt;Tipo: Painting" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;strokeWidth=1;fillColor=#FFFFFF;fontColor=#6C767D;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;fontSize=14;spacing=10;fontFamily=Helvetica;" vertex="1" parent="LfK27KjmxgYq0cYgHclC-3">
+        <mxCell id="LfK27KjmxgYq0cYgHclC-54" value="Nombre: nombre obra&lt;br&gt;&lt;br&gt;Año: 10/12/2010&lt;br&gt;&lt;br&gt;Descripción: Descripción de obra&lt;br&gt;&lt;br&gt;Tipo: Painting" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;strokeWidth=1;fillColor=#FFFFFF;fontColor=#6C767D;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;fontSize=14;spacing=10;fontFamily=Helvetica;" parent="LfK27KjmxgYq0cYgHclC-3" vertex="1">
           <mxGeometry x="650" y="400" width="184" height="155" as="geometry" />
         </mxCell>
-        <mxCell id="LfK27KjmxgYq0cYgHclC-55" value="Nombre: nombre obra&lt;br&gt;&lt;br&gt;Año: 10/12/2010&lt;br&gt;&lt;br&gt;Descripción: Descripción de obra&lt;br&gt;&lt;br&gt;Tipo: Painting" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;strokeWidth=1;fillColor=#FFFFFF;fontColor=#6C767D;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;fontSize=14;spacing=10;fontFamily=Helvetica;" vertex="1" parent="LfK27KjmxgYq0cYgHclC-3">
+        <mxCell id="LfK27KjmxgYq0cYgHclC-55" value="Nombre: nombre obra&lt;br&gt;&lt;br&gt;Año: 10/12/2010&lt;br&gt;&lt;br&gt;Descripción: Descripción de obra&lt;br&gt;&lt;br&gt;Tipo: Painting" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;strokeWidth=1;fillColor=#FFFFFF;fontColor=#6C767D;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;fontSize=14;spacing=10;fontFamily=Helvetica;" parent="LfK27KjmxgYq0cYgHclC-3" vertex="1">
           <mxGeometry x="880" y="400" width="184" height="155" as="geometry" />
         </mxCell>
-        <mxCell id="LfK27KjmxgYq0cYgHclC-56" value="Nombre: nombre obra&lt;br&gt;&lt;br&gt;Año: 10/12/2010&lt;br&gt;&lt;br&gt;Descripción: Descripción de obra&lt;br&gt;&lt;br&gt;Tipo: Painting" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;strokeWidth=1;fillColor=#FFFFFF;fontColor=#6C767D;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;fontSize=14;spacing=10;fontFamily=Helvetica;" vertex="1" parent="LfK27KjmxgYq0cYgHclC-3">
+        <mxCell id="LfK27KjmxgYq0cYgHclC-56" value="Nombre: nombre obra&lt;br&gt;&lt;br&gt;Año: 10/12/2010&lt;br&gt;&lt;br&gt;Descripción: Descripción de obra&lt;br&gt;&lt;br&gt;Tipo: Painting" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;strokeWidth=1;fillColor=#FFFFFF;fontColor=#6C767D;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;fontSize=14;spacing=10;fontFamily=Helvetica;" parent="LfK27KjmxgYq0cYgHclC-3" vertex="1">
           <mxGeometry x="190" y="590" width="184" height="155" as="geometry" />
         </mxCell>
-        <mxCell id="LfK27KjmxgYq0cYgHclC-57" value="Nombre: nombre obra&lt;br&gt;&lt;br&gt;Año: 10/12/2010&lt;br&gt;&lt;br&gt;Descripción: Descripción de obra&lt;br&gt;&lt;br&gt;Tipo: Painting" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;strokeWidth=1;fillColor=#FFFFFF;fontColor=#6C767D;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;fontSize=14;spacing=10;fontFamily=Helvetica;" vertex="1" parent="LfK27KjmxgYq0cYgHclC-3">
+        <mxCell id="LfK27KjmxgYq0cYgHclC-57" value="Nombre: nombre obra&lt;br&gt;&lt;br&gt;Año: 10/12/2010&lt;br&gt;&lt;br&gt;Descripción: Descripción de obra&lt;br&gt;&lt;br&gt;Tipo: Painting" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;strokeWidth=1;fillColor=#FFFFFF;fontColor=#6C767D;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;fontSize=14;spacing=10;fontFamily=Helvetica;" parent="LfK27KjmxgYq0cYgHclC-3" vertex="1">
           <mxGeometry x="420" y="590" width="184" height="155" as="geometry" />
         </mxCell>
-        <mxCell id="LfK27KjmxgYq0cYgHclC-58" value="Nombre: nombre obra&lt;br&gt;&lt;br&gt;Año: 10/12/2010&lt;br&gt;&lt;br&gt;Descripción: Descripción de obra&lt;br&gt;&lt;br&gt;Tipo: Painting" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;strokeWidth=1;fillColor=#FFFFFF;fontColor=#6C767D;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;fontSize=14;spacing=10;fontFamily=Helvetica;" vertex="1" parent="LfK27KjmxgYq0cYgHclC-3">
+        <mxCell id="LfK27KjmxgYq0cYgHclC-58" value="Nombre: nombre obra&lt;br&gt;&lt;br&gt;Año: 10/12/2010&lt;br&gt;&lt;br&gt;Descripción: Descripción de obra&lt;br&gt;&lt;br&gt;Tipo: Painting" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;strokeWidth=1;fillColor=#FFFFFF;fontColor=#6C767D;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;fontSize=14;spacing=10;fontFamily=Helvetica;" parent="LfK27KjmxgYq0cYgHclC-3" vertex="1">
           <mxGeometry x="650" y="590" width="184" height="155" as="geometry" />
         </mxCell>
-        <mxCell id="LfK27KjmxgYq0cYgHclC-59" value="Nombre: nombre obra&lt;br&gt;&lt;br&gt;Año: 10/12/2010&lt;br&gt;&lt;br&gt;Descripción: Descripción de obra&lt;br&gt;&lt;br&gt;Tipo: Painting" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;strokeWidth=1;fillColor=#FFFFFF;fontColor=#6C767D;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;fontSize=14;spacing=10;fontFamily=Helvetica;" vertex="1" parent="LfK27KjmxgYq0cYgHclC-3">
+        <mxCell id="LfK27KjmxgYq0cYgHclC-59" value="Nombre: nombre obra&lt;br&gt;&lt;br&gt;Año: 10/12/2010&lt;br&gt;&lt;br&gt;Descripción: Descripción de obra&lt;br&gt;&lt;br&gt;Tipo: Painting" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;strokeWidth=1;fillColor=#FFFFFF;fontColor=#6C767D;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;fontSize=14;spacing=10;fontFamily=Helvetica;" parent="LfK27KjmxgYq0cYgHclC-3" vertex="1">
           <mxGeometry x="880" y="590" width="184" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="gHQKoTq-5_V-Iu78lWZ0-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="tLhkMtqVfMtvaBKOZ2es-51" target="LfK27KjmxgYq0cYgHclC-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
