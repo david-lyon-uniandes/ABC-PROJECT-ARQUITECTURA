@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-21T14:13:06.583Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15" etag="06PVyiSzpA-LKCtb2bgE" version="20.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-21T14:13:16.049Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15" etag="LoRjOz334QHcr_sgVgft" version="20.5.0" type="github">
   <diagram id="hfnjaT5whu7QgdR-a0yH" name="Página-1">
     <mxGraphModel dx="1808" dy="986" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -174,18 +174,6 @@
         <mxCell id="tLhkMtqVfMtvaBKOZ2es-30" value="Next" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rightButton;rSize=5;perimeter=none;whiteSpace=wrap;resizeHeight=1;fontSize=14;" vertex="1" parent="tLhkMtqVfMtvaBKOZ2es-25">
           <mxGeometry x="1" width="60" height="30" relative="1" as="geometry">
             <mxPoint x="-60" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tLhkMtqVfMtvaBKOZ2es-41" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=13;strokeColor=#C6C8CA;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1180" y="1150" as="sourcePoint" />
-            <mxPoint x="600" y="1150" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tLhkMtqVfMtvaBKOZ2es-42" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=13;strokeColor=#C6C8CA;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1040" y="1070" as="sourcePoint" />
-            <mxPoint x="290" y="1070" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
