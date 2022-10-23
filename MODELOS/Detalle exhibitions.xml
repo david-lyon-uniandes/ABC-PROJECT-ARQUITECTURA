@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-23T04:11:40.518Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15" etag="JTXKAl56ZycbFKOS3EkL" version="20.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-23T04:18:41.817Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Safari/605.1.15" etag="X6PzR5mzgBDQfmfpaT0s" version="20.5.0" type="github">
   <diagram id="hfnjaT5whu7QgdR-a0yH" name="Página-1">
     <mxGraphModel dx="1614" dy="1019" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -136,7 +136,7 @@
           <mxGeometry x="20" y="400" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="tLhkMtqVfMtvaBKOZ2es-47" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/heroicons-solid/20/cursor-click-128.png;strokeColor=#C6C8CA;strokeWidth=1;fontFamily=Helvetica;fontSize=13;fontColor=#66B2FF;" parent="tLhkMtqVfMtvaBKOZ2es-1" vertex="1">
-          <mxGeometry x="250" y="270" width="50" height="50" as="geometry" />
+          <mxGeometry x="260" y="340" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gHQKoTq-5_V-Iu78lWZ0-3" value="Search" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.searchBox;strokeColor=#999999;mainText=;strokeColor2=#008cff;fontColor=#666666;fontSize=17;align=left;spacingLeft=3;fillColor=#E6FFCC;" parent="tLhkMtqVfMtvaBKOZ2es-1" vertex="1">
           <mxGeometry x="170" y="220" width="170" height="30" as="geometry" />
@@ -164,6 +164,9 @@
         </mxCell>
         <mxCell id="baCeaVOmUED_CjOL22E0-35" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.navigation.scrollBar;strokeColor=#999999;barPos=20;fillColor2=#99ddff;strokeColor2=none;direction=north;labelBackgroundColor=#3F0BF9;fillStyle=auto;fontFamily=Lucida Console;fontSize=10;fontColor=#FFFFFF;fillColor=#ABABAB;gradientColor=none;gradientDirection=east;" vertex="1" parent="tLhkMtqVfMtvaBKOZ2es-1">
           <mxGeometry x="1170" y="110" width="50" height="690" as="geometry" />
+        </mxCell>
+        <mxCell id="baCeaVOmUED_CjOL22E0-36" value="Nombre museo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontColor=#0000FF;fontStyle=1;fontFamily=Comic Sans MS;" vertex="1" parent="tLhkMtqVfMtvaBKOZ2es-1">
+          <mxGeometry x="990" y="180" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
